@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Снежная листва джунглей\",\"translate\":\"miniblock.eden.snowy_jungle_log\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежное тропическое дерево\",\"translate\":\"miniblock.eden.snowy_jungle_log\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

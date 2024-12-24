@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Снежная листва тёмного дуба\",\"translate\":\"miniblock.eden.snowy_dark_oak_log\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежный тёмный дуб\",\"translate\":\"miniblock.eden.snowy_dark_oak_log\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

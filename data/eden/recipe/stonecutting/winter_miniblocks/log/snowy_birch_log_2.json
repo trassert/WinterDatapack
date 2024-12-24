@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Снежная листва березы\",\"translate\":\"miniblock.eden.snowy_birch_log\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежная береза\",\"translate\":\"miniblock.eden.snowy_birch_log\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

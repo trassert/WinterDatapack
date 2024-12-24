@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Снежная листва акации\",\"translate\":\"miniblock.eden.Снежная_acacia_log\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежная акация\",\"translate\":\"miniblock.eden.Снежная_acacia_log\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {
