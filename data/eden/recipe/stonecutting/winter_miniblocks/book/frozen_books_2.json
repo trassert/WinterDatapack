@@ -6,7 +6,7 @@
         "count": 1,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Frozen Books\",\"translate\":\"miniblock.eden.frozen_books\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Книжки во льду\",\"translate\":\"miniblock.eden.frozen_books\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

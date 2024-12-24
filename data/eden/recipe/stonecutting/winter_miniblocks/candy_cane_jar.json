@@ -6,7 +6,7 @@
         "count": 1,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Candy Cane Jar\",\"translate\":\"miniblock.eden.candy_cane_jar\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Банка с карамелью\",\"translate\":\"miniblock.eden.candy_cane_jar\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

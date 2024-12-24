@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Snowglobe\",\"translate\":\"miniblock.eden.snowglobe\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Новогодняя игрушка\",\"translate\":\"miniblock.eden.snowglobe\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

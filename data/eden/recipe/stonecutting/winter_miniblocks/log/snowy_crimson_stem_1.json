@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Snowy Crimson Stem\",\"translate\":\"miniblock.eden.snowy_crimson_stem\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежная листва вишни\",\"translate\":\"miniblock.eden.snowy_crimson_stem\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

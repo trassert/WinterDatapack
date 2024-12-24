@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Christmas Chest\",\"translate\":\"miniblock.eden.christmas_chest\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Новогодний сундук\",\"translate\":\"miniblock.eden.christmas_chest\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

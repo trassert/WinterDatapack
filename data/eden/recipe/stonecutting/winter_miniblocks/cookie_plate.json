@@ -6,7 +6,7 @@
         "count": 1,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Plate of Cookies\",\"translate\":\"miniblock.eden.cookie_plate\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Печенья\",\"translate\":\"miniblock.eden.cookie_plate\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

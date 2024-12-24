@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Bauble Ornament\",\"translate\":\"miniblock.eden.bauble_ornament\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Ёлочная игрушка\",\"translate\":\"miniblock.eden.bauble_ornament\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

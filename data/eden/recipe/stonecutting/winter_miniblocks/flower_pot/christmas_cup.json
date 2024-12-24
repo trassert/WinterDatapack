@@ -6,7 +6,7 @@
         "count": 1,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Christmas Cup\",\"translate\":\"miniblock.eden.christmas_cup\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Новогодняя чашечка\",\"translate\":\"miniblock.eden.christmas_cup\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

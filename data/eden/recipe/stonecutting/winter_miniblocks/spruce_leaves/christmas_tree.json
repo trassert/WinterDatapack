@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Christmas Tree\",\"translate\":\"miniblock.eden.christmas_tree\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Новогодняя ёлка\",\"translate\":\"miniblock.eden.christmas_tree\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

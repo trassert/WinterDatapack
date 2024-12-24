@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Present\",\"translate\":\"miniblock.eden.present\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Подарок\",\"translate\":\"miniblock.eden.present\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

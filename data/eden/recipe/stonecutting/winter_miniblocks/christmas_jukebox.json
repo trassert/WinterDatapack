@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Christmas Jukebox\",\"translate\":\"miniblock.eden.christmas_jukebox\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Музыкальная шкатулка\",\"translate\":\"miniblock.eden.christmas_jukebox\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

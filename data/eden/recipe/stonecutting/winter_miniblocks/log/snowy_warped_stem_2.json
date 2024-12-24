@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Snowy Warped Stem\",\"translate\":\"miniblock.eden.snowy_warped_stem\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежная искажённая листва\",\"translate\":\"miniblock.eden.snowy_warped_stem\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {

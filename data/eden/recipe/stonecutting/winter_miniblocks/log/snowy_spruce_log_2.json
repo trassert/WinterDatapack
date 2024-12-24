@@ -6,7 +6,7 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Snowy Spruce Log\",\"translate\":\"miniblock.eden.snowy_spruce_log\",\"italic\":false}",
+            "minecraft:custom_name": "{\"fallback\":\"Снежная еловая листва\",\"translate\":\"miniblock.eden.snowy_spruce_log\",\"italic\":false}",
             "minecraft:profile": {
                 "properties": [
                     {
