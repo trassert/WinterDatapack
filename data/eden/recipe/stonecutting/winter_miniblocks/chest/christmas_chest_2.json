@@ -1,12 +1,11 @@
 {
-    "type": "minecraft:stonecutting",
     "ingredient": "minecraft:chest",
     "result": {
-        "id": "minecraft:player_head",
-        "count": 4,
         "components": {
-            "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Новогодний сундук\",\"translate\":\"miniblock.eden.christmas_chest\",\"italic\":false}",
+            "minecraft:custom_name": {
+                "italic": false,
+                "text": "Новогодний сундук"
+            },
             "minecraft:profile": {
                 "properties": [
                     {
@@ -14,7 +13,11 @@
                         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZhNDUyZWI0N2I5NDNiNTI0MGUzODIzNWZmNzdhNjg2NWVmYjkzMzViZmIxYmE5M2UxZGQ4ZjdlNmU5ZjU4OSJ9fX0="
                     }
                 ]
-            }
-        }
-    }
+            },
+            "minecraft:rarity": "uncommon"
+        },
+        "count": 4,
+        "id": "minecraft:player_head"
+    },
+    "type": "minecraft:stonecutting"
 }

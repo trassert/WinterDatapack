@@ -1,12 +1,11 @@
 {
-    "type": "minecraft:stonecutting",
     "ingredient": "minecraft:glass",
     "result": {
-        "id": "minecraft:player_head",
-        "count": 4,
         "components": {
-            "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Ёлочная игрушка\",\"translate\":\"miniblock.eden.bauble_ornament\",\"italic\":false}",
+            "minecraft:custom_name": {
+                "italic": false,
+                "text": "Ёлочная игрушка"
+            },
             "minecraft:profile": {
                 "properties": [
                     {
@@ -14,7 +13,11 @@
                         "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmRiMjRkYzI2MjYzMTY2M2JhMWUzZTMzOTg2NDUwMTNkYzVjZDIzMzFlYzliOWYzZWIyNjg1NWEwYjEwNGJhYSJ9fX0="
                     }
                 ]
-            }
-        }
-    }
+            },
+            "minecraft:rarity": "uncommon"
+        },
+        "count": 4,
+        "id": "minecraft:player_head"
+    },
+    "type": "minecraft:stonecutting"
 }

@@ -6,7 +6,10 @@
         "count": 4,
         "components": {
             "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Снежок\",\"translate\":\"miniblock.eden.winter_slime\",\"italic\":false}",
+            "minecraft:custom_name": {
+              "text": "Снежок",
+              "italic": false
+            },
             "minecraft:profile": {
                 "properties": [
                     {
