@@ -1,12 +1,1 @@
-{
-	"pack": {
-		"pack_format": 57,
-		"description": [
-			{
-				"text": "Датапак с головами для снежного обновления!",
-				"color": "white"
-			}
-		]
-	}
-}
-
+{"pack":{"description":[{"color":"white","text":"Datapack with New Year's heads"}],"max_format":95,"min_format":57,"pack_format":57}}
